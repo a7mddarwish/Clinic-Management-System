@@ -39,7 +39,7 @@ Notes:
 ## Timeline
 Your “control room” for today’s visits: who’s waiting, who’s being seen, who was called, and who’s finished.
 
-![Timeline](Assets/Timeline.png)
+![Timeline](Assets/TimeLine.png)
 
 What you can do
 - Instantly filter by status: Waiting, Processing, Called, or Completed—see only what matters now.
@@ -86,7 +86,7 @@ Smart touches
 ## Add Patient
 Register a new patient or update an existing one through a clear, safe form.
 
-![AddPatient](Assets/AddPatient.png)
+![AddPatient](Assets/Patient.png)
 
 What you can do
 - Add or edit: full name, age, gender, phone, and address.
@@ -107,7 +107,7 @@ Smart touches
 ## Medical Background
 One place to record the essentials: surgeries, current medications, and drug allergies.
 
-![MedicalBackground](Assets/MedicalBackground.png)
+![MedicalBackground](Assets/MedicalBG.png)
 
 What you can do
 - Find a patient by ID, then load their existing background if it exists.
@@ -130,7 +130,7 @@ Smart touches
 ## Patient History
 A clear, focused view of a patient’s journey in your clinic.
 
-![PatientHistory](Assets/PatientHistory.png)
+![PatientHistory](Assets/PateintHistory.png)
 
 What you can do
 - Review past visits quickly.
