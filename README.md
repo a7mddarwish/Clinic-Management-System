@@ -130,7 +130,7 @@ Smart touches
 ## Patient History
 A clear, focused view of a patient’s journey in your clinic.
 
-![PatientHistory](Assets/PateintHistory.png)
+![PatientHistory](Assets/Pateinthistory.png)
 
 What you can do
 - Review past visits quickly.
