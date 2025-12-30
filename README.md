@@ -189,7 +189,7 @@ Smart touches
 ## Tech Support
 A simple internal place to ask for help or report an issue quickly.
 
-![TechSupport](Assets/TechSupport.png)
+![TechSupport](Assets/Techsupport.png)
 
 What you can do
 - Send a quick note about a problem or request guidance.
